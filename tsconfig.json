@@ -6,5 +6,18 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/carousel/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/carousel/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/rxjs-demo/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/rxjs-demo/tsconfig.spec.json"
+    }
+]
 }
